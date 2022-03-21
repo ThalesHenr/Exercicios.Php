@@ -9,8 +9,8 @@
 </head>
 <body>
 <form action="calcular-ex-48-do.php" method="post">
-    <input type="text" name="nota1">
-    <input type="text" name="nota2">
+    <input type="number" name="nota1">
+    <input type="number" name="nota2">
     <input type="submit" value="M&eacute;dia">
 </form>
 </body>
