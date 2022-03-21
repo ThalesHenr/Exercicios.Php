@@ -4,8 +4,8 @@ $valor = 0;
 $valor2 = 0;
 
 do {
-    $valor = readline("Digita um valor: ");
-    $valor2 = readline("Digita um valor: ");
+    $valor = readline("Digite um valor: ");
+    $valor2 = readline("Digite um valor: ");
 } while ($valor2 == 0);
 
 $resultado = $valor / $valor2;
