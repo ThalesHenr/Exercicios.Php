@@ -4,8 +4,8 @@ $valor = 0;
 $valor2 = 0;
 
 do {
-    $valor = readline("Digita saporra de valor: ");
-    $valor2 = readline("Digita saporra de valor 2: ");
+    $valor = readline("Digita um valor: ");
+    $valor2 = readline("Digita um valor: ");
 } while ($valor2 == 0);
 
 $resultado = $valor / $valor2;
